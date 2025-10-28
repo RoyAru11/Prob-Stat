@@ -31,13 +31,3 @@ bias.jack
 # Jackknife estimate of standard bias
 sd.jack = sqrt( ((n-1)/n)*sum((est.val - mean.jack)^2) )
 sd.jack                
-
-
-
-
-
-
-
-
-
-
